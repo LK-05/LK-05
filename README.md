@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://as2.ftcdn.net/v2/jpg/05/48/43/29/1000_F_548432982_dXV9mF8fuEsddQm2PEjBnQBIFTJD9KRO.jpg" alt="Coder" width="500">
+  <img src="https://as2.ftcdn.net/v2/jpg/05/48/43/29/1000_F_548432982_dXV9mF8fuEsddQm2PEjBnQBIFTJD9KRO.jpg" alt="Coder" width="500"  height="40">
 </p>
 
 <h1 align="center">LK</h1>
@@ -31,7 +31,7 @@
 ---
 
 <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5c299b57e2ccd1899549dc84/1599245166248-L2777KXX8UWRE3J6X92Y/bd24cc4f035013425217ae3690340955.gif?format=300w" alt="Cool Animation">
+  <img src="https://images.squarespace-cdn.com/content/v1/5c299b57e2ccd1899549dc84/1599245166248-L2777KXX8UWRE3J6X92Y/bd24cc4f035013425217ae3690340955.gif?format=300w" alt="Cool Animation" width="500">
 </p>
 
 ---
