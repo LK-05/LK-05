@@ -39,13 +39,13 @@
 ## Cool GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=LK-05&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats">
 </p>
 
 ## Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LK-05&layout=compact&theme=dark" alt="Top Languages">
 </p>
 
 <p align="center">
