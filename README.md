@@ -31,7 +31,7 @@
 ---
 
 <p align="center">
-  <img src="YOUR_ANIMATED_IMAGE_OR_GIF_URL" alt="Cool Animation">
+  <img src="https://images.squarespace-cdn.com/content/v1/5c299b57e2ccd1899549dc84/1599245166248-L2777KXX8UWRE3J6X92Y/bd24cc4f035013425217ae3690340955.gif?format=300w" alt="Cool Animation">
 </p>
 
 ---
