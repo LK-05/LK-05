@@ -18,7 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40">
+  <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftwbs%2Ficons&psig=AOvVaw0IMCkFez8eGa99T-jIp0KL&ust=1698696859273000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNiDiYqJnIIDFQAAAAAdAAAAABAD" alt="Bootstrap" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
