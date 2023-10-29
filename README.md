@@ -1,12 +1,48 @@
-<h1 align="center"> I'm LK</h1>
-<h3 align="center">"As an undergraduate student, I am currently focusing on specializing in AI/ML, while also cultivating proficiency in various other complementary skills."</h3>
+<p align="center">
+  <img src="https://as2.ftcdn.net/v2/jpg/05/48/43/29/1000_F_548432982_dXV9mF8fuEsddQm2PEjBnQBIFTJD9KRO.jpg" alt="Coder" width="200">
+</p>
 
-<img align="right" alt="Coder" width="200" src="https://as2.ftcdn.net/v2/jpg/05/48/43/29/1000_F_548432982_dXV9mF8fuEsddQm2PEjBnQBIFTJD9KRO.jpg">
+<h1 align="center">LK</h1>
+<h3 align="center">Undergraduate Student | AI/ML Enthusiast</h3>
 
-- 🔭 I’m currently working on **Exploring Real-Life Applications of Python in AI and Machine Learning.**
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://twitter.com/your-twitter-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter">
+  </a>
+</p>
 
-- 🌱 I’m currently learning **Python,Machine Learning,R Programming, to broaden my programming skills and enhance my data analysis capabilities.**
+---
 
+🔭 **Currently Exploring:** Real-Life Applications of Python in AI and Machine Learning
+
+🌱 **Currently Learning:** Python, Machine Learning, R Programming, and more to enhance my skills and data analysis capabilities.
+
+🚀 **Goals:** Building intelligent applications that make a positive impact on society.
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://your-animation-link.gif" alt="Cool Animation">
+</p>
+
+<p align="center">
+  <strong>Thanks for visiting my profile!</strong>
+</p>
