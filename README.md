@@ -30,9 +30,7 @@
 
 ---
 
-<p align="center">
-  <img src="YOUR_ANIMATED_IMAGE_OR_GIF_URL" alt="Cool Animation">
-</p>
+
 
 <p align="center">
   <strong>Thanks for visiting my profile!</strong>
