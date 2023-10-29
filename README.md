@@ -5,15 +5,6 @@
 <h1 align="center">LK</h1>
 <h3 align="center">Undergraduate Student | AI/ML Enthusiast</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://twitter.com/your-twitter-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter">
-  </a>
-</p>
-
 ---
 
 🔭 **Currently Exploring:** Real-Life Applications of Python in AI and Machine Learning
@@ -31,7 +22,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt "MATLAB" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40">
@@ -40,7 +31,7 @@
 ---
 
 <p align="center">
-  <img src="https://your-animation-link.gif" alt="Cool Animation">
+  <img src="YOUR_ANIMATED_IMAGE_OR_GIF_URL" alt="Cool Animation">
 </p>
 
 <p align="center">
