@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://as2.ftcdn.net/v2/jpg/05/48/43/29/1000_F_548432982_dXV9mF8fuEsddQm2PEjBnQBIFTJD9KRO.jpg" alt="Coder" width="500">
+  <img src="https://storage.googleapis.com/pai-images/8fd62eb6dc6948ec80ce7dc670afb586.jpeg" alt="Coder" width="500">
 </p>
 
 <h1 align="center">LK</h1>
