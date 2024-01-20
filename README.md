@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">LK</h1>
-<h3 align="center">Undergraduate Student | AI/ML Enthusiast</h3>
+<h3 align="center">AI/ML Undergrad | Web Dev | Social Volunteer | Event Coordinator | Adventurer | Public Speaker | Trekker | Content Writer</h3>
 
 ---
 
