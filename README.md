@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">LK</h1>
-<h3 align="center">AI/ML Trainee|Web Dev|AI/ML Enthusiast|Content Writer</h3>
+<h3 align="center">AI/ML Trainee|Web Dev|Mobile App Dev|AI/ML Enthusiast|Content Writer</h3>
 
 ---
 
-🔭 **Currently Exploring:** Real-Life Applications of Python in AI and Machine Learning
+🔭 **Currently Exploring:** Real-Life Applications of Python in AI,Machine Learning and Generative AI
 
-🌱 **Currently Learning:** Python, Machine Learning, R Programming, and more to enhance my skills and data analysis capabilities.
+🌱 **Currently Learning:** Python, Machine Learning, R Programming, Gen AI, Mobile App Dev, Web Dev and more to enhance my skills and data analysis capabilities.
 
 🚀 **Goals:** Building intelligent applications that make a positive impact on society.
 
