@@ -1,5 +1,5 @@
 <p align="center">
-  <img src= "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fgamer-playing-desktop-pc-computer-gaming-illustration_35103332.htm&psig=AOvVaw2tv_0CnOgwft26PZmNWs_N&ust=1733560829204000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjO577fkooDFQAAAAAdAAAAABAo" alt="Coder" width="500">
+  <img src= "[gwft26PZmNWs_N&ust=1733560829204000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPjO577fkooDFQAAAAAdAAAAABAo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-ai-image%2Fprogrammer-working-late-night-cyberpunk-illustration_342511430.htm&psig=AOvVaw0q52y0fZgRxaW8J6LeLPm_&ust=1733561470930000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDmhPrhkooDFQAAAAAdAAAAABAE)" alt="Coder" width="500">
 </p>
 
 <h1 align="center">LK</h1>
